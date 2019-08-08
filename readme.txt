@@ -1,0 +1,1 @@
+Copy content to: "Assets\GameShaders\HWScripts\CryFX"
